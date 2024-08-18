@@ -1,0 +1,25 @@
+body{
+  background-color: #454e55;
+}
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2{
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Grey+Qo&family=Kalnia+Glaze:wght@100..700&display=swap');
+
+
+
+h2 {
+  font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+}
